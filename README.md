@@ -3,6 +3,7 @@
 A chatbot that runs fully on your own computer using a local LLM (via [Ollama](https://ollama.com)) and remembers the conversation using LangChain memory. It has a clean chat-app interface built with Streamlit, plus a simple terminal version.
 
 ---
+https://memory-bot-gjggvz6td5o3ydyte6hh8i.streamlit.app/
 
 ## Features
 
